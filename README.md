@@ -9,7 +9,7 @@ Tokenizer.jar is a runnable program which reads string from standard input
 
 input: "Hello World. 中文斷詞"
 
-output:
+output:  
 hello  
 world  
 中  
